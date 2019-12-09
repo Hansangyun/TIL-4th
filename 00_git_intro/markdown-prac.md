@@ -2,7 +2,7 @@
 
 
 
-![Git_Image](C:\Users\sy303\TIL\00_git_intro\Images\1_mtsk3fQ_BRemFidhkel3dA1.png)
+![Git_Image](./Images\1_mtsk3fQ_BRemFidhkel3dA1.png)
 
 
 
