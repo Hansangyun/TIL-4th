@@ -8,7 +8,7 @@ $ git confit --global user.email "sy30316@naver.com"
 
 ### git - github 연결
 ```
-$ git remote 
+$ git remote add [이름][repository 주소]
 ```
 
 
